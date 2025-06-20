@@ -1,7 +1,7 @@
 {
   "name": "openserv-leaderboard-api",
   "version": "2.0.0",
-  "description": "OpenServ Twitter Leaderboard API - Vercel Compatible",
+  "description": "OpenServ Twitter Leaderboard API",
   "main": "index.ts",
   "scripts": {
     "dev": "vercel dev",
@@ -47,6 +47,6 @@
     "vercel",
     "serverless"
   ],
-  "author": "OpenServ Labs",
+  "author": "Loïc Bellez",
   "license": "MIT"
 }
