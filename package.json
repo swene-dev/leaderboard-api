@@ -2,7 +2,7 @@
   "name": "openserv-leaderboard-api",
   "version": "2.0.0",
   "description": "OpenServ Twitter Leaderboard API",
-  "main": "index.ts",
+  "main": "api/index.ts",
   "scripts": {
     "dev": "vercel dev",
     "build": "tsc",
